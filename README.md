@@ -43,8 +43,8 @@ To handle this, I followed a structured approach:
 This approach was designed to be reusable for any future unstructured datasets.
 
 A detailed explanation of this methodology is available here:  
-📄 **Structured Data Approach Document**  
-➡️ `structured_data_vanya.pdf`
+### Structured Data Approach Document
+📄 [Structured Data Approach Document](structured_data_vanya.pdf)
 
 ---
 
@@ -58,8 +58,8 @@ The Power BI dashboard provides a one-page analytical view with:
 - Top institutions by student count  
 - Interactive slicers for Branch and Course  
 
-**Power BI File:**  
-➡️ `Student_analytics.pbix`
+### Power BI Dashboard File
+📊 [Student Analytics Dashboard (PBIX)](Student_analytics.pbix)
 
 ---
 
@@ -72,8 +72,8 @@ Key insights derived from the dashboard include:
 - Institutions contributing the highest number of students  
 
 These insights are summarized in:  
-**Visualization Insights Document**  
-➡️ `Visualization_insights_vanya.pdf`
+### Visualization Insights
+📈 [Visualization Insights Document](Visualization_insights_vanya.pdf)
 
 ---
 
