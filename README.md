@@ -59,7 +59,7 @@ The Power BI dashboard provides a one-page analytical view with:
 - Interactive slicers for Branch and Course  
 
 ### Power BI Dashboard File
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](student_analytics_dashboard.png)
 
 ---
 
